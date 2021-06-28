@@ -1,0 +1,40 @@
+.leftcontainer{
+    width: 200px;
+    margin: auto;
+    /* padding-top: 10px; */
+}
+.main{
+    display: inline;
+}
+.rightcontainer{
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    margin: auto;
+   padding: auto;
+   margin: 20px;
+}
+
+.top{
+    margin-bottom: -20%;
+    margin-top:30px ;
+}
+
+.bottom{
+   margin-bottom: -10%;
+   margin: auto;
+}
+.outer{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 100px;
+    padding-top: 10px;
+    
+}
+.text{
+    width: 100px;
+    margin: auto;
+    height: 40px;
+}
